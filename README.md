@@ -15,6 +15,10 @@
 - Metal Performance Shaders Graph : https://developer.apple.com/documentation/metalperformanceshadersgraph
 - MetalKit : https://developer.apple.com/documentation/metalkit
 
+## Neural Engine (Not Opened)
+- Core ML use neural engine partially : https://developer.apple.com/documentation/coreml
+- Looks CNN optimized chip : https://github.com/geohot/tinygrad/tree/master/accel/ane
+
 ## Helpful Tools
 - Reverse Engineering Tool : https://github.com/rizinorg/cutter
 - Silicon ARMv8.5-A assembly programming : https://github.com/below/HelloSilicon
@@ -28,6 +32,9 @@
 - Triggering Apple Neural Engine from C++ : https://www.youtube.com/watch?v=JAyw7OAcXDE
 - Apple Neural Engine & Metal Performacne Shader backend : tinygrad : https://github.com/geohot/tinygrad
 - Anaylsis of Apple Neural Network : https://github.com/hollance/neural-engine
+- breakdown AI Chips : https://geohot.github.io/blog/jekyll/update/2021/06/13/a-breakdown-of-ai-chip-companies.html
+- M1 CPU study : https://ieeexplore.ieee.org/abstract/document/9696024
+- M1 System report : https://www.systemplus.fr/wp-content/uploads/2020/12/SP20608-Apple-M1-System-on-Chip-Sample.pdf
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
