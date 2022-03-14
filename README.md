@@ -36,6 +36,7 @@
 - M1 CPU study : https://ieeexplore.ieee.org/abstract/document/9696024
 - M1 System report : https://www.systemplus.fr/wp-content/uploads/2020/12/SP20608-Apple-M1-System-on-Chip-Sample.pdf
 - M1 Overview : https://gts3.org/blog/apple-m1/apple-m1-overview.pdf
+- M1 Explainer : https://twitter.com/handleym99/status/1437537535018684417
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
