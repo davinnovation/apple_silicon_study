@@ -38,7 +38,8 @@
 - M1 Overview : https://gts3.org/blog/apple-m1/apple-m1-overview.pdf
 - M1 Explainer : https://twitter.com/handleym99/status/1437537535018684417
 - M1 Benchmark : https://www.anandtech.com/show/17024/apple-m1-max-performance-review/5
-- Tensorflow benchmark : https://github.com/tlkh/tf-metal-experiments
+- Tensorflow benchmark (: https://github.com/tlkh/tf-metal-experiments
+- M1 vs V100 :https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
