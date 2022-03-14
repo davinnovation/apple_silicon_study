@@ -25,6 +25,8 @@
 - C based Neural Network : https://github.com/pjreddie/darknet
 - Apple silicon system architecture : https://developer.apple.com/videos/play/wwdc2020/10686/
 - book of 64-Bit ARM Assembly Language : https://www.amazon.com/Programming-64-Bit-ARM-Assembly-Language/dp/1484258800
+- Triggering Apple Neural Engine from C++ : https://www.youtube.com/watch?v=JAyw7OAcXDE
+- Apple Neural Engine & Metal Performacne Shader backend : tinygrad : https://github.com/geohot/tinygrad
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
