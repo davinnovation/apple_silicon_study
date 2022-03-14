@@ -35,6 +35,7 @@
 - breakdown AI Chips : https://geohot.github.io/blog/jekyll/update/2021/06/13/a-breakdown-of-ai-chip-companies.html
 - M1 CPU study : https://ieeexplore.ieee.org/abstract/document/9696024
 - M1 System report : https://www.systemplus.fr/wp-content/uploads/2020/12/SP20608-Apple-M1-System-on-Chip-Sample.pdf
+- M1 Overview : https://gts3.org/blog/apple-m1/apple-m1-overview.pdf
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
