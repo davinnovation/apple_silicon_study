@@ -41,6 +41,7 @@
 - Tensorflow benchmark (: https://github.com/tlkh/tf-metal-experiments
 - M1 vs V100 :https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg
 - pytorch native metal neural core : https://github.com/pytorch/pytorch/tree/release/1.12/aten/src/ATen/native/metal
+- pytorch 1.12 - silicon support : https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
