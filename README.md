@@ -40,6 +40,7 @@
 - M1 Benchmark : https://www.anandtech.com/show/17024/apple-m1-max-performance-review/5
 - Tensorflow benchmark (: https://github.com/tlkh/tf-metal-experiments
 - M1 vs V100 :https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg
+- pytorch native metal neural core : https://github.com/pytorch/pytorch/tree/release/1.12/aten/src/ATen/native/metal
 
 ## Good to know
 - What is CoreML? : https://developer.apple.com/documentation/coreml
